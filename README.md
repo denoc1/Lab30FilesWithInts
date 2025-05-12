@@ -19,3 +19,5 @@ Write a Java program that does the following:
     d.   The maximum and minimum
 
     e.  The number of even and odd numbers
+
+4.  Use try/catch for file exception error handling and hasNextInt() or hasNextLine() for data type errors. 
